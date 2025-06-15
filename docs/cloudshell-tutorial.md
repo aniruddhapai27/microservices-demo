@@ -6,6 +6,7 @@ You'll be able to run Online Boutique on:
 - a local **[minikube](https://minikube.sigs.k8s.io/docs/)** cluster, which comes built in to the Cloud Shell instance
 - a **[Google Kubernetes Engine](https://cloud.google.com/kubernetes-engine)** cluster using a new or existing [Google Cloud project](https://cloud.google.com/resource-manager/docs/creating-managing-projects#creating_a_project)
 
+
 Let's get started!
 
 
