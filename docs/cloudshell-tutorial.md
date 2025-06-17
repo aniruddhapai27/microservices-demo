@@ -10,6 +10,8 @@ You'll be able to run Online Boutique on:
 Let's get started!
 
 
+
+
 ## Kubernetes cluster setup
 
 
