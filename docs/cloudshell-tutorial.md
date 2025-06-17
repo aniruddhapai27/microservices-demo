@@ -12,6 +12,7 @@ Let's get started!
 
 ## Kubernetes cluster setup
 
+
 Set up a Kubernetes cluster using the instructions below for either **minikube** or **GKE**.
 
 ### Minikube instructions
